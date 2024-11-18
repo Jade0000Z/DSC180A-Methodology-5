@@ -6,6 +6,7 @@ gzhou@ucsd.edu
 DSC180A B01 Mentor: Dr. Ali Arsanjani
 
 **1. What is the most interesting topic covered in your domain this quarter?**
+
 I found generative AI models and predictive models particularly interesting for misinformation detection.
 
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
